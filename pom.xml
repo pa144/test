@@ -22,12 +22,12 @@
     <repository>
         <id>central</id>
         <name>DESKTOP-T5BGURO-releases</name>
-        <url>http://localhost:8081/artifactory/repo</url>
+        <url>http://localhost:8081/artifactory/tek</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>DESKTOP-T5BGURO-snapshots</name>
-        <url>http://localhost:8081/artifactory/repo</url>
+        <url>http://localhost:8081/artifactory/tek</url>
     </snapshotRepository>
 </distributionManagement>
 
